@@ -4,7 +4,7 @@ import allure
 @allure.feature("Comparison")
 @allure.title("Adding product to comparison")
 def test_add_product_to_comparison():
-    pass
+    assert 0, "This test should fail"
 
 
 @allure.feature("Cart")
